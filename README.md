@@ -20,11 +20,13 @@
 ## Installation Instructions
 
 - Download the latest version of Rainmeter from the official website and install it
-- Clone or download this repository (`EveryThing-UI`) to your local machine
-- Move the extracted `EveryThing-UI` folder to your Rainmeter Skins directory
-- Note that the default Skins directory is usually located at `Documents\Rainmeter\Skins`
-- Right-click the Rainmeter teardrop icon in your system tray and click "Refresh all"
+- Go to the Releases section and download the latest release (`EveryThing-UI_1.0.rmskin`)
+- Double-click the downloaded `.rmskin` file to install the skin suite automatically
 - Open the Rainmeter Manager interface, navigate to `EveryThing-UI`, and load the desired widgets
+- Alternatively, if installing manually:
+  - Clone or download this repository (`EveryThing-UI`) to your local machine
+  - Move the extracted `EveryThing-UI` folder to your Rainmeter Skins directory (usually `Documents\Rainmeter\Skins`)
+  - Right-click the Rainmeter teardrop icon in your system tray and click "Refresh all"
 
 ## Customization & Configuration
 
