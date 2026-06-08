@@ -30,9 +30,9 @@
 
 ## Customization & Configuration
 
-- Check the dimensions of the widgets as most support uniform scaling (e.g., 190x190 or 190x95)
 - Take advantage of the centralized aesthetic shared across all widgets in the suite
 - Change colors, fonts, or scales globally by modifying the values within the `[Variables]` section inside the `.ini` files
+- **⚠️ Warning:** Be careful when resizing the widgets, as doing so might break the widget's layout!
 
 ## Skins
 
