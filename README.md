@@ -11,10 +11,10 @@
 - Includes fully configured Light and Dark mode variants for every single widget
 - Offers a wide variety of functional modules and utilities:
   - System Status: Track Battery, Disk Space, and RAM usage
-  - Clocks: Multiple options including Digital, Analog, and Dualtone designs
-  - Date and Calendar: Keep track of days and events right on your desktop
-  - Hardware Monitors: Real-time CPU usage and Network Download/Upload speeds
-  - Quick Utilities: indicators for Recycle Bin, WiFi, Airplane Mode, and Bluetooth
+  - Media & Audio: Fully functional SMTC Media Player (Spotify, YouTube, etc.) and Audio Visualizers
+  - Clocks & Dates: Analog/Digital Clocks, dynamic Calendars (Dot Matrix & Numbered), and Greeting widgets
+  - Hardware Monitors: Real-time CPU usage, Network speeds, and Year Progress trackers
+  - Quick Utilities: Functional toggles for WiFi, Airplane Mode, Bluetooth (opens Settings), and Volume
   - Photo Frames: Customizable frames to display your favorite images
 
 ## Installation Instructions
@@ -40,7 +40,7 @@
 | :--- | :---: | :---: | :---: |
 | Battery 1 | 1 | ✔️ | ✔️ |
 | Battery 2 | 1 | ✔️ | ✔️ |
-| Calendar | 1 | ✔️ | ✔️ |
+| Calendar | 2 | ✔️ | ✔️ |
 | Clock 1 | 2 | ✔️ | ✔️ |
 | Clock 2 | 1 | ✔️ | ✔️ |
 | Clock 3 | 2 | ✔️ | ✔️ |
@@ -59,6 +59,11 @@
 | Network | 2 | ✔️ | ✔️ |
 | RecycleBin | 2 | ✔️ | ✔️ |
 | WiFi | 2 | ✔️ | ✔️ |
+| Volume | 2 | ✔️ | ✔️ |
+| Year Progress | 2 | ✔️ | ✔️ |
+| Greeting | 2 | ✔️ | ✔️ |
+| Visualizer | 3 | ✔️ | ✔️ |
+| Player | 2 | ✔️ | ✔️ |
 
 ## Future Updates
 
