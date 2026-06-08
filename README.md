@@ -14,7 +14,7 @@
   - Clocks: Multiple options including Digital, Analog, and Dualtone designs
   - Date and Calendar: Keep track of days and events right on your desktop
   - Hardware Monitors: Real-time CPU usage and Network Download/Upload speeds
-  - Quick Utilities: Accessible toggles and indicators for Recycle Bin, Uptime, Volume, WiFi, Airplane Mode, and Bluetooth
+  - Quick Utilities: indicators for Recycle Bin, WiFi, Airplane Mode, and Bluetooth
   - Photo Frames: Customizable frames to display your favorite images
 
 ## Installation Instructions
