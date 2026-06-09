@@ -16,6 +16,8 @@
   - Hardware Monitors: Real-time CPU usage, Network speeds, and Year Progress trackers
   - Quick Utilities: Functional toggles for WiFi, Airplane Mode, Bluetooth (opens Settings), and Volume
   - Photo Frames: Customizable frames to display your favorite images
+  - Time Tracking: Uptime widget to keep track of your daily PC usage, and Countdown timers
+  - Personalization: Rotating Mantra widget for daily inspiration
 
 ## Installation Instructions
 
@@ -64,6 +66,9 @@
 | Greeting | 2 | ✔️ | ✔️ |
 | Visualizer | 3 | ✔️ | ✔️ |
 | Player | 2 | ✔️ | ✔️ |
+| Uptime | 1 | ✔️ | ✔️ |
+| Countdown | 2 | ✔️ | ✔️ |
+| Mantra | 1 | ✔️ | ✔️ |
 
 ## Future Updates
 
