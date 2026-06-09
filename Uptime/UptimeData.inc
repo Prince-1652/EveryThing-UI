@@ -1,3 +1,3 @@
 [Variables]
-SavedDate=20260609
-TodayUptime=39766
+SavedDate=0
+TodayUptime=0
