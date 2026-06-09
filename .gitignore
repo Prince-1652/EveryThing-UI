@@ -1,2 +1,10 @@
-# User-specific uptime data (generated at runtime)
-Uptime/UptimeData.inc
+# User photos (personal images, not part of the skin)
+Photos/**/*.png
+Photos/**/*.jpg
+Photos/**/*.jpeg
+Photos/**/*.bmp
+Photos/**/*.gif
+Photos/**/*.webp
+Photos/**/*.tiff
+Photos/**/*.ico
+Photos/**/*.svg
