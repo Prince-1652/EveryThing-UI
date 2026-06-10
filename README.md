@@ -1,76 +1,68 @@
 <div align="center">
   <img src="@Resources/Images/image-1.png" alt="EveryThing-UI">
   <h1>EveryThing-UI</h1>
+  <p>
+    A minimalist, Nothing OS inspired widget suite designed for Rainmeter.<br>
+    Created to provide an elegant and cohesive desktop customization experience.<br>
+    Built with a focus on modern aesthetics and seamless grid-based layouts.
+  </p>
 </div>
-- A minimalist, Nothing OS inspired widget suite designed for Rainmeter
-- Created to provide an elegant and cohesive desktop customization experience
-- Built with a focus on modern aesthetics and seamless grid-based layouts
 
 ## Features
 
-- Provides clean, aesthetic widget designs that prioritize modern simplicity
-- Supports Pill-shaped and standard block layouts for easy and flexible grid arrangements
-- Includes fully configured Light and Dark mode variants for every single widget
-- Offers a wide variety of functional modules and utilities:
-  - System Status: Track Battery, Disk Space, and RAM usage
-  - Media & Audio: Fully functional SMTC Media Player (Spotify, YouTube, etc.) and Audio Visualizers
-  - Clocks & Dates: Analog/Digital Clocks, dynamic Calendars (Dot Matrix & Numbered), and Greeting widgets
-  - Hardware Monitors: Real-time CPU usage, Network speeds, and Year Progress trackers
-  - Quick Utilities: Functional toggles for WiFi, Airplane Mode, Bluetooth (opens Settings), and Volume
-  - Photo Frames: Customizable frames to display your favorite images
-  - Time Tracking: Uptime widget to keep track of your daily PC usage, and Countdown timers
-  - Personalization: Rotating Mantra widget for daily inspiration
+- Clean, aesthetic, modern widget designs
+- Pill-shaped and block layouts for flexible grids
+- Light and Dark modes for every widget
+- **Modules & Utilities**:
+  - **System Status**: Battery, Disk Space, RAM usage
+  - **Media & Audio**: SMTC Player (Spotify, YouTube), Visualizers
+  - **Clocks & Dates**: Analog/Digital Clocks, Calendars, Greetings
+  - **Hardware**: CPU usage, Network speeds, Year Progress
+  - **Quick Utilities**: WiFi, Airplane, Bluetooth, Volume toggles
+  - **Photos**: Customizable image frames
+  - **Time Tracking**: Uptime, Countdown timers
+  - **Personalization**: Rotating Mantra widget
 
-## Installation Instructions
+## Installation
 
-- Download the latest version of Rainmeter from the official website and install it
-- Go to the Releases section and download the latest release (`EveryThing-UI_1.0.rmskin`)
-- Double-click the downloaded `.rmskin` file to install the skin suite automatically
-- Open the Rainmeter Manager interface, navigate to `EveryThing-UI`, and load the desired widgets
-- Alternatively, if installing manually:
-  - Clone or download this repository (`EveryThing-UI`) to your local machine
-  - Move the extracted `EveryThing-UI` folder to your Rainmeter Skins directory (usually `Documents\Rainmeter\Skins`)
-  - Right-click the Rainmeter teardrop icon in your system tray and click "Refresh all"
+- Download and install Rainmeter
+- Download latest release (`EveryThing-UI_1.0.rmskin`) from Releases
+- Double-click `.rmskin` to install
+- Open Rainmeter Manager → `EveryThing-UI` → load widgets
+- **Manual Install:** Clone/download repo, move folder to `Documents\Rainmeter\Skins`, right-click Rainmeter icon in tray → "Refresh all"
 
-## Customization & Configuration
+## Screenshots
 
-- Take advantage of the centralized aesthetic shared across all widgets in the suite
-- Change colors, fonts, or scales globally by modifying the values within the `[Variables]` section inside the `.ini` files
-- **⚠️ Warning:** Be careful when resizing the widgets, as doing so might break the widget's layout!
+<div align="center">
+  <img src="images/1p.png" width="49%">
+  <img src="images/2p.png" width="49%">
+  <img src="images/3p.png" width="49%">
+  <img src="images/4p.png" width="49%">
+  <img src="images/5p.png" width="49%">
+  <img src="images/6p.png" width="49%">
+</div>
+
+## Customization
+
+- Edit `[Variables]` in `.ini` files to globally change colors, fonts, or scales
+- ⚠️ **Warning:** Resizing widgets may break their layout!
+
 
 ## Skins
 
-| Skins | Variants | Dark | Light |
-| :--- | :---: | :---: | :---: |
-| Battery 1 | 1 | ✔️ | ✔️ |
-| Battery 2 | 1 | ✔️ | ✔️ |
-| Calendar | 2 | ✔️ | ✔️ |
-| Clock 1 | 2 | ✔️ | ✔️ |
-| Clock 2 | 1 | ✔️ | ✔️ |
-| Clock 3 | 2 | ✔️ | ✔️ |
-| Clock 4 | 1 | ✔️ | ✔️ |
-| Clock Analog | 2 | ✔️ | ✔️ |
-| Clock Digital | 3 | ✔️ | ✔️ |
-| Date | 1 | ✔️ | ✔️ |
-| Photo 1 | 1 | ✔️ | ✔️ |
-| Photo 2 | 1 | ✔️ | ✔️ |
-| Photo 3 | 1 | ✔️ | ✔️ |
-| Photo 4 | 1 | ✔️ | ✔️ |
-| System Status | 1 | ✔️ | ✔️ |
-| Airplane | 2 | ✔️ | ✔️ |
-| Bluetooth | 2 | ✔️ | ✔️ |
-| CPU | 2 | ✔️ | ✔️ |
-| Network | 2 | ✔️ | ✔️ |
-| RecycleBin | 2 | ✔️ | ✔️ |
-| WiFi | 2 | ✔️ | ✔️ |
-| Volume | 2 | ✔️ | ✔️ |
-| Year Progress | 2 | ✔️ | ✔️ |
-| Greeting | 2 | ✔️ | ✔️ |
-| Visualizer | 3 | ✔️ | ✔️ |
-| Player | 2 | ✔️ | ✔️ |
-| Uptime | 1 | ✔️ | ✔️ |
-| Countdown | 2 | ✔️ | ✔️ |
-| Mantra | 1 | ✔️ | ✔️ |
+| Skins / Category | Variants | Dark / Light |
+| :--- | :---: | :---: |
+| **Battery** 1, 2 | 1 each | ✔️ |
+| **Clock** 1, 3 | 2 each | ✔️ |
+| **Clock** 2, 4 | 1 each | ✔️ |
+| **Clock** Analog, Digital | 2, 3 | ✔️ |
+| **Date** & **Calendar** | 1, 2 | ✔️ |
+| **Photo** 1, 2, 3, 4 | 1 each | ✔️ |
+| **System** (Status, CPU, Network) | 1, 2, 2 | ✔️ |
+| **Utilities** (WiFi, Vol, BT, Airplane) | 2 each | ✔️ |
+| **Tracking** (Uptime, Countdown, Year) | 1, 2, 2 | ✔️ |
+| **Media** (Player, Visualizer) | 2, 3 | ✔️ |
+| **Misc** (RecycleBin, Greeting, Mantra)| 2, 2, 1 | ✔️ |
 
 ## Future Updates
 
