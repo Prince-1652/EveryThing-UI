@@ -34,12 +34,12 @@
 ## Screenshots
 
 <div align="center">
-  <img src="images/1p.png" width="49%">
-  <img src="images/2p.png" width="49%">
-  <img src="images/3p.png" width="49%">
-  <img src="images/4p.png" width="49%">
-  <img src="images/5p.png" width="49%">
-  <img src="images/6p.png" width="49%">
+  <img src="@Resources/Images/1p.png" width="49%">
+  <img src="@Resources/Images/2p.png" width="49%">
+  <img src="@Resources/Images/3p.png" width="49%">
+  <img src="@Resources/Images/4p.png" width="49%">
+  <img src="@Resources/Images/5p.png" width="49%">
+  <img src="@Resources/Images/6p.png" width="49%">
 </div>
 
 ## Customization
