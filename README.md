@@ -1,5 +1,7 @@
-# EveryThing-UI
-
+<div align="center">
+  <img src="image-1.png" alt="EveryThing-UI">
+  <h1>EveryThing-UI</h1>
+</div>
 - A minimalist, Nothing OS inspired widget suite designed for Rainmeter
 - Created to provide an elegant and cohesive desktop customization experience
 - Built with a focus on modern aesthetics and seamless grid-based layouts
