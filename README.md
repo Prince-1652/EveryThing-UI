@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="image-1.png" alt="EveryThing-UI">
+  <img src="@Resources/Images/image-1.png" alt="EveryThing-UI">
   <h1>EveryThing-UI</h1>
 </div>
 - A minimalist, Nothing OS inspired widget suite designed for Rainmeter
