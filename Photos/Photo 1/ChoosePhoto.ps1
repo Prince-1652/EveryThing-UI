@@ -30,9 +30,15 @@ if ($result -eq [System.Windows.Forms.DialogResult]::OK) {
     Copy-Item -Path $file -Destination $newFile -Force
     
     # Refresh the Rainmeter widget so it loads the new image immediately
-    $RainmeterPath = "C:\Program Files\Rainmeter\Rainmeter.exe"
-    if (Test-Path $RainmeterPath) {
+    $rmProcess = Get-Process Rainmeter -ErrorAction SilentlyContinue
+    if ($rmProcess) {
+        $RainmeterPath = $rmProcess.MainModule.FileName
         Start-Process -FilePath $RainmeterPath -ArgumentList "!Refresh", "`"$SkinName`""
+    } else {
+        $RainmeterPath = "C:\Program Files\Rainmeter\Rainmeter.exe"
+        if (Test-Path $RainmeterPath) {
+            Start-Process -FilePath $RainmeterPath -ArgumentList "!Refresh", "`"$SkinName`""
+        }
     }
 }
 

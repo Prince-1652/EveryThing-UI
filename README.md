@@ -23,10 +23,12 @@
   - **Time Tracking**: Uptime, Countdown timers
   - **Personalization**: Rotating Mantra widget
 
+
+
 ## Installation
 
 - Download and install Rainmeter
-- Download latest release (`EveryThing-UI_1.0.rmskin`) from Releases
+- Download latest release (`EveryThing-UI_x.x.rmskin`) from Releases
 - Double-click `.rmskin` to install
 - Open Rainmeter Manager → `EveryThing-UI` → load widgets
 - **Manual Install:** Clone/download repo, move folder to `Documents\Rainmeter\Skins`, right-click Rainmeter icon in tray → "Refresh all"
