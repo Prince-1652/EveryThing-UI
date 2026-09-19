@@ -22,7 +22,7 @@
   - **Photos**: Customizable image frames
   - **Time Tracking**: Uptime, Countdown timers
   - **Personalization**: Rotating Mantra widget
-  - **Pets**: Animated Cat widget (Solid & Transparent)
+  - **Pets**: Animated Cat & Dog widgets (Solid & Transparent)
 
 
 
@@ -66,7 +66,7 @@
 | **Tracking** (Uptime, Countdown, Year) | 1, 2, 2 | ✔️ |
 | **Media** (Player, Visualizer) | 2, 3 | ✔️ |
 | **Misc** (RecycleBin, Greeting, Mantra)| 2, 2, 1 | ✔️ |
-| **Pets** (Cat Animation, Transparent) | 2 | ✔️ |
+| **Pets** (Cat & Dog Animation, Transparent) | 2 each | ✔️ |
 
 ## Future Updates
 
