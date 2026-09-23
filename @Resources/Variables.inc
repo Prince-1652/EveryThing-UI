@@ -1,2 +1,2 @@
 [Variables]
-FillColor=34C759
+FillColor=EA1537
