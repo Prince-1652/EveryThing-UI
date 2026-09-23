@@ -22,7 +22,8 @@
   - **Photos**: Customizable image frames
   - **Time Tracking**: Uptime, Countdown timers
   - **Personalization**: Rotating Mantra widget
-  - **Pets**: Animated Cat & Dog widgets (Solid & Transparent)
+  - **Pets**: Animated Cat, Dog, Hamster & Robo widgets (Solid & Transparent)
+  - **Weather**: Minimalist weather forecast widgets
 
 
 
@@ -66,7 +67,8 @@
 | **Tracking** (Uptime, Countdown, Year) | 1, 2, 2 | ✔️ |
 | **Media** (Player, Visualizer) | 2, 3 | ✔️ |
 | **Misc** (RecycleBin, Greeting, Mantra)| 2, 2, 1 | ✔️ |
-| **Pets** (Cat & Dog Animation, Transparent) | 2 each | ✔️ |
+| **Pets** (Cat, Dog, Hamster & Robo, Transparent) | 2 each | ✔️ |
+| **Weather** | 2 | ✔️ |
 
 ## Future Updates
 
@@ -75,3 +77,7 @@
 ## Author
 
 - Created and maintained by Prince-1652
+
+## License
+
+- Distributed under the [MIT License](LICENSE).
